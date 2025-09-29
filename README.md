@@ -1,12 +1,20 @@
 # Lab05 - LCD + ADC
 
-## Integrantes
+Índice:
 
-## Documentación
+1. [Integrantes](#integrantes)
+2. [Documentación](#documentación)
+3. [Diagramas](#diagramas)
+4. [Preguntas](#preguntas)
+5. []
 
-## Diagramas
+## 1. Integrantes
 
-## Preguntas
+## 2. Documentación
+
+## 3. Diagramas
+
+## 4. Preguntas
 
 
 ### Preguntas sobre inicialización y configuración del ADC
@@ -47,5 +55,8 @@ Describir paso a paso la secuencia de inicialización usada en el código para c
 3. Explicar la diferencia entre mostrar texto fijo y texto formateado en la LCD, e indicar por qué en el caso del voltaje se requiere formatear el texto antes de enviarlo a la pantalla.
 
 4. Suponer que ahora se necesita implementar una función que permita desplazar el texto hacia la izquierda automáticamente cada $300$ ms, pero sin usar retardos bloqueantes (```__delay_ms```), ¿qué periféricos del **PIC** debe configurar para realizar esto?
+
+
+## Referencias
 
 
